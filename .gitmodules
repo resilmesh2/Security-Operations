@@ -1,6 +1,8 @@
 [submodule "Mitigation-manager"]
 	path = Mitigation-manager
 	url = https://github.com/resilmesh2/Mitigation-manager.git
+	branch = main
 [submodule "Playbooks-tool"]
 	path = Playbooks-tool
 	url = https://github.com/resilmesh2/Playbooks-tool.git
+	branch = main
