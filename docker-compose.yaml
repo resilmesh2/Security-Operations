@@ -1,0 +1,3 @@
+include:
+  - path: ./Mitigation-manager/docker-compose.yaml
+  - path: ./Playbooks-tool/docker-compose.yaml
